@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1514828005 source:c:\users\negru\desktop\suzi\minirpg proiect\main.c
+	"subprograme.h"
+
+1514991370 c:\users\negru\desktop\suzi\minirpg proiect\subprograme.h
+
+1514828005 source:c:\users\suzana\downloads\suzi\suzi\minirpg proiect\main.c
+	"subprograme.h"
+
+1514991370 c:\users\suzana\downloads\suzi\suzi\minirpg proiect\subprograme.h
+
+1515094320 source:c:\users\suzana\downloads\suzi\suzi\minirpg proiect\subprograme.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1514828005 source:c:\users\suzana\desktop\minirpg proiect\main.c
+	"subprograme.h"
+
+1514991370 c:\users\suzana\desktop\minirpg proiect\subprograme.h
+
+1515095013 source:c:\users\suzana\desktop\minirpg proiect\subprograme.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1514828005 source:c:\users\suzana\documents\fac\pp teme\minirpg proiect\main.c
+	"subprograme.h"
+
+1514991370 c:\users\suzana\documents\fac\pp teme\minirpg proiect\subprograme.h
+
+1515740589 source:c:\users\suzana\documents\fac\pp teme\minirpg proiect\subprograme.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

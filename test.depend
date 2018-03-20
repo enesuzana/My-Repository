@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1514558038 source:c:\users\suzana\documents\tt\test\main.c
+	"subprograme.h"
+
+1514573640 c:\users\suzana\documents\tt\test\subprograme.h
+
+1514582959 source:c:\users\suzana\documents\tt\test\subprograme.c
+	<stdio.h>
+	<stdlib.h>
+
+1514828005 source:c:\users\negru\desktop\suzi\gmail\main.c
+	"subprograme.h"
+
+1514986820 c:\users\negru\desktop\suzi\gmail\subprograme.h
+
+1514990467 source:c:\users\negru\desktop\suzi\gmail\subprograme.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
